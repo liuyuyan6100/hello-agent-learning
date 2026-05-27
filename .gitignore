@@ -26,6 +26,7 @@ Thumbs.db
 # API Keys
 .env
 *.env.local
+.git-credentials
 
 # Logs
 *.log
